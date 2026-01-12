@@ -8,4 +8,9 @@ One Button android game built with Unity & C#
 
 ## Controls
 - 🎮 **Simple one-button movement**: Tap to change the direction you’re facing.  
-- ✋ **Hold to move**: Press and hold the button to move in the chosen direction
+- ✋ **Hold to move**: Press and hold the button to move in the chosen direction.
+
+## Built With
+- Unity 2022.3.50f1
+- C#
+- Android SDK
