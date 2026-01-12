@@ -1,5 +1,5 @@
 # Ballot-Brawl
-One Button android game built with Unity & C# --edit
+One Button android game built with Unity & C#
 
 ## Features
 - **Collect votes/points**: Gather as many points as possible within the time limit to become the top player.  
