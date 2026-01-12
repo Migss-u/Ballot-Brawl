@@ -20,19 +20,16 @@ https://drive.google.com/file/d/1H9YPCw21Ghq-UF-mN_Kr1fZ7sZtaQL13/view?usp=shari
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/mainmenu.png)
+![Main Menu](screenshots/mainmenu.jpg)
 
 ### Gameplay
 <p float="left">
-  <img src="screenshots/gameplay1.png" width="200" />
-  <img src="screenshots/gameplay2.png" width="200" />
-  <img src="screenshots/gameplay3.png" width="200" />
+  <img src="screenshots/gameplay1.jpg" width="200" />
+  <img src="screenshots/gameplay2.jpg" width="200" />
+  <img src="screenshots/gameplay3.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="screenshots/gameplay4.png" width="200" />
-  <img src="screenshots/gameplay5.png" width="200" />
+  <img src="screenshots/gameplay4.jpg" width="200" />
+  <img src="screenshots/gameplay5.jpg" width="200" />
 </p>
-
-### Power-ups / Special Features
-![Power-ups](screenshots/powerups.png)
