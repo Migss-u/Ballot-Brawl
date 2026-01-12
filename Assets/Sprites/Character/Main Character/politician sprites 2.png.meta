@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: b322e949dd43087468d7cfc2ceeda7f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: politician sprites 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1777.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb92b46b3b63ef4680205e91f16fed0
+      internalID: 1992942670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1777.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d3bfa04a158349920f71ff5ec2e6c
+      internalID: 438803456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1555.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea5b570ca97234a835716179a7c1f8
+      internalID: -1603861720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1555.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98ef8d01c91cf478dc480142168e32
+      internalID: 866033711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de988f038971e92489143158a883d4f7
+      internalID: 1827870987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1333.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c03c980220f9458983086ffc19427
+      internalID: -1368052746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1111.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5000600e78745d459b6727d1f1c6b68
+      internalID: 401811522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1111.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5197ce1b83b2142a1a134680a9dc1b
+      internalID: -68578921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5af8e141750044db90bb67636d27be
+      internalID: 1830297530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 889.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a8ea76c2264f4291ad6ac58f04974
+      internalID: -692064667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 889.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b5051f81dafa4b91e8d5f039896f7
+      internalID: 1958607911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 889.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5183ac8e008bee4389154e73937a59b
+      internalID: -318653739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2f3324aeaab80498fe56f2b4f214ff
+      internalID: 1507793574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 667.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d3a4639aed3248b2790914a39187a
+      internalID: -356109416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 667.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc29cde648a362489b0c9c5219c0a02
+      internalID: 1752016135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 667.7778
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2f7acdcd0f624aa62be8bb620b374
+      internalID: -175097888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9838d840cf5b91644a299f16f14f63ca
+      internalID: 1585334274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 445.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc6983a99d468409eb817af645b5ce
+      internalID: -42224099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 445.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e54f8259d284849b73467f54930116
+      internalID: 2099383983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 445.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fca951235d564ea37a79d6566244f
+      internalID: 459270935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb826c05ea63042aceb3b909017382
+      internalID: -351121294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66717723512a394e9762751981a0918
+      internalID: 1961984336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 223.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07002411ff3c9d046ab0b0d075f70105
+      internalID: -1816172746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: politician sprites 2_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 223.77777
+        width: 223.8
+        height: 222.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4cc806b9c9de14eab8821de618988c
+      internalID: -510621447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      politician sprites 2_0: 1992942670
+      politician sprites 2_1: 438803456
+      politician sprites 2_10: 1958607911
+      politician sprites 2_11: -318653739
+      politician sprites 2_12: 1507793574
+      politician sprites 2_13: -356109416
+      politician sprites 2_14: 1752016135
+      politician sprites 2_15: -175097888
+      politician sprites 2_16: 1585334274
+      politician sprites 2_17: -42224099
+      politician sprites 2_18: 2099383983
+      politician sprites 2_19: 459270935
+      politician sprites 2_2: -1603861720
+      politician sprites 2_20: -351121294
+      politician sprites 2_21: 1961984336
+      politician sprites 2_22: -1816172746
+      politician sprites 2_23: -510621447
+      politician sprites 2_3: 866033711
+      politician sprites 2_4: 1827870987
+      politician sprites 2_5: -1368052746
+      politician sprites 2_6: 401811522
+      politician sprites 2_7: -68578921
+      politician sprites 2_8: 1830297530
+      politician sprites 2_9: -692064667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
