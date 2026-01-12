@@ -1,2 +1,2 @@
 # Ballot-Brawl
-One button android unity game 
+One Button android game built with Unity & C#
